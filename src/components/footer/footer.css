@@ -1,0 +1,16 @@
+.footer{
+    background-color: #1B1212;
+    color: #fff;
+    height: 238px;
+    max-height: 100%;
+}
+.footerContent{
+    width: 100%;
+    max-width: 1024px;
+    margin: auto auto;
+    padding: 20px 0 0 0;
+    display: flex;
+    gap: 20px;
+    font-size: 30px;
+    cursor: pointer;
+}

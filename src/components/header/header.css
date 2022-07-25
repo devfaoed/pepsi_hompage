@@ -1,0 +1,23 @@
+.navbar{
+    cursor: pointer;
+}
+.navbarImage{
+    width: 20%;
+    display: block;
+    margin: auto auto;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    text-align: center;
+    background-color: #1B52A2;
+    color: #fff;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+li{
+    display: inline-block;
+    padding: 15px 30px;
+}
